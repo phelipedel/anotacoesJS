@@ -1017,7 +1017,9 @@ if (corfavorita = 'vermelho') {
  */
 
 
-// 
+// # leafFlet.js  = para mapas ou mapsbox
+//# char.js = trabalho com graficos 
+//#  fetch
 
 
 
